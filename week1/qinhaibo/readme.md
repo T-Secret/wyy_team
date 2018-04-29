@@ -30,4 +30,16 @@
 2. git add 添加
 3. git commit提交
 4. git add .添加全部文件
-5. 测试
+5. git diff 查看改变的内容
+6. cat xxx.xxx 查看文件内容
+7. git log 查看历史修改
+8. git reset --hard+版本号 恢复之前版本
+9. git reflog 历史版本号
+10. git checkout 未添加到暂存区的撤回
+11. git reset HEAD xxx.xx撤出暂存区
+12. git rm xxx.xx 删除操作
+13. git clone 远程仓库克隆文件
+14. git push origin master 将本地仓库上传到远程仓库
+15. hHHhhh
+16. 测试
+

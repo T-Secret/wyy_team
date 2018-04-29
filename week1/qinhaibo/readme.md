@@ -40,6 +40,4 @@
 12. git rm xxx.xx 删除操作
 13. git clone 远程仓库克隆文件
 14. git push origin master 将本地仓库上传到远程仓库
-15. hHHhhh
-16. 测试
 

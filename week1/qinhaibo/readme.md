@@ -40,4 +40,9 @@
 12. git rm xxx.xx 删除操作
 13. git clone 远程仓库克隆文件
 14. git push origin master 将本地仓库上传到远程仓库
-
+15. rm xxx.txt 直接删除工作区的文件
+16. git branch xxx //创建xxx分支
+17. git checkout xxx //切换到xxx分支
+18. git checkout master //切换到主分支
+19. git merge xxx //合并xxx分支到主分支
+20. git checkout -d xxx // 删除分支xxx

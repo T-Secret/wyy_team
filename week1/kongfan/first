@@ -1,0 +1,9 @@
+git status查看当前状态
+git add .添加全部文件
+git diff查看改变的内容
+git log查看历史修改
+git checkout未添加到暂存区的撤回
+git reset HEAD xxx.xx撤出存储区
+git rm xxx.xx删除操作
+git clone远程仓库克隆文件
+git push origin master将本地仓库上传到远程仓库
